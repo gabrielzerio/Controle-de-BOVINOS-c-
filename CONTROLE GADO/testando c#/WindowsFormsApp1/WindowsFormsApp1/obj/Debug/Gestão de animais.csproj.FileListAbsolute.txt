@@ -1,0 +1,29 @@
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cadastroGado.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pop_up_cadastroLote.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pop_up_peso.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gestão de animais.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gestão de animais.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bancoDadosImagem.resources
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gestão de animais.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bancoDadosImagem.resources
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cadastroGado.resources
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pop_up_cadastroLote.resources
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pop_up_peso.resources
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gestão de animais.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Gestão de animais.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mostraLote.resources
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gabriel\Desktop\CONTROLE GADO\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources

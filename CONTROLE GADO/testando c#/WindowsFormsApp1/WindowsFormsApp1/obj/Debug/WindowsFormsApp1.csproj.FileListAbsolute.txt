@@ -1,0 +1,24 @@
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pop_up_peso.resources
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pop_up_cadastroLote.resources
+C:\Users\Gabriel Zério\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cadastroGado.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cadastroGado.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pop_up_cadastroLote.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pop_up_peso.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gabriel\Desktop\testando c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
